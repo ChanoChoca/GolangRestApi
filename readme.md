@@ -2,8 +2,8 @@
 
 ## Requisitos
 
-- Go 1.22+
-- MySQL corriendo
+- Go
+- MySQL
 - Archivo `.env` configurado
 
 ---
